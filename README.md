@@ -4,7 +4,7 @@ This Python script allows you to retrieve random posts from any user's profile o
 # How it works:
 Simply provide the user's handle (e.g., @username), and the script will return a random post from their profile. If you want another random post, just click the button again and wait. It takes a while for him to do the search, since he has to open the browser, scroll and collect all the html on the page. The interface is intentionally minimalistic and straightforward, designed with the goal of improving automation skills. In fact, this entire project was completed in under two hours.
 
-#Executable Version:
+# Executable Version:
 For your convenience, I have also created an executable version of the script. You can simply download it and start using it without the need to install any additional dependencies.
 
 # Without further ado
